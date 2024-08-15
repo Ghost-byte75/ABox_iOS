@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "74B35AC2-6CA9-4026-AD1D-FBED800B6FA5"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "2844821C-4DDF-46D2-BBA2-37F9409786DA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8E33A62-9911-4C53-9CCC-F787DA16927F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AltSign/AltSign/Model/Apple API/ALTProvisioningProfile.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "-initWithData:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70950EF4-658A-4138-B173-106D6DBBECA2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AltSign/AltSign/Model/Apple API/ALTProvisioningProfile.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "-initWithResponseDictionary:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83667EF3-E8B6-419D-9C55-23E9F249DF81"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ABox/Feature/Folder/FolderViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "692"
+            endingLineNumber = "692"
+            landmarkName = "openFile(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B5F6BDA-ACF1-4224-B376-2EFBF9D84385"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ABox/Utils/AppSigner/AppSigner.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "458"
+            endingLineNumber = "458"
+            landmarkName = "+fileTypeWithData:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3B5F6BDA-ACF1-4224-B376-2EFBF9D84385 - f512a8012cffc251"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[AppSigner fileTypeWithData:]"
+                  moduleName = "xzsign"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swing/Desktop/Code/iOSProject/xz-appstore/ABox/Utils/AppSigner/AppSigner.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "458"
+                  endingLineNumber = "458"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "3B5F6BDA-ACF1-4224-B376-2EFBF9D84385 - f512a8012cffc251"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[AppSigner fileTypeWithData:]"
+                  moduleName = "xzsign"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swing/Desktop/Code/iOSProject/xz-appstore/ABox/Utils/AppSigner/AppSigner.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "458"
+                  endingLineNumber = "458"
+                  offsetFromSymbolStart = "448">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18C31770-6034-44BD-9AE3-71B3BF09E443"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ABox/Utils/AppSigner/AppSigner.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "449"
+            endingLineNumber = "449"
+            landmarkName = "+fileTypeWithData:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "18C31770-6034-44BD-9AE3-71B3BF09E443 - f512a8012cffc348"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[AppSigner fileTypeWithData:]"
+                  moduleName = "xzsign"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swing/Desktop/Code/iOSProject/xz-appstore/ABox/Utils/AppSigner/AppSigner.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "451"
+                  endingLineNumber = "451"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "18C31770-6034-44BD-9AE3-71B3BF09E443 - f512a8012cffc38e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[AppSigner fileTypeWithData:]"
+                  moduleName = "xzsign"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swing/Desktop/Code/iOSProject/xz-appstore/ABox/Utils/AppSigner/AppSigner.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "449"
+                  endingLineNumber = "449"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10AC48E1-5B8C-43AF-B374-0594F7734DB1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ABox/Feature/Download/Model/DownloadTask.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "startDownload()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
